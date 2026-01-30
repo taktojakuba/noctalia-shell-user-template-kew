@@ -4,7 +4,7 @@
 <ol>copy noctalia.theme to ~/.config/noctalia/templates if you dont have templates folder create it </ol>
   <ol>in ~/.config/noctalia/user-templates.toml add 
 <pre>
-[templates.myapp]
+[templates.kew]
 input_path = "~/.config/noctalia/templates/noctalia.theme"
 output_path = "~/.config/kew/themes/noctalia.theme"
 post_hook = "kew theme noctalia"
